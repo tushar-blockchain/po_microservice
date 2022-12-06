@@ -16,9 +16,9 @@
   "license": "EY",
   "dependencies": {
     "babel-plugin-inline-dotenv": "^1.2.2",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cuid": "^2.1.6",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "ip-regex": "^4.0.0",
     "mongodb": "^3.1.13",
     "sanitize-html": "^1.20.0"
